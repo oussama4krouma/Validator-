@@ -10,3 +10,5 @@ frontend/dist/
 *.iml
 .vscode/
 .DS_Store
+
+xrechnung-testsuite/
